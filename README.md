@@ -85,9 +85,9 @@ Ecommerce-sales-Customer_analysis/
 Developed an end-to-end e-commerce analytics project by combining SQL, Excel, Python, and Power BI to analyze business performance and present insights through interactive visualizations.
 
 ---
-## 📊 Dashboard Preview
+Dashboard Preview
 
-![Olist Dashboard](screenshots/Dashboard.png)
+![Olist Dashboard](screenshot/Dashboard.png)
 
 Project Type: Data Analytics Portfolio Project
 
