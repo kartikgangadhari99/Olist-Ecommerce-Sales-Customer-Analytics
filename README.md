@@ -1,12 +1,12 @@
-# 🛒 Olist E-Commerce Sales & Customer Analytics
+ Olist E-Commerce Sales & Customer Analytics
 
-## 📌 Project Overview
+ Project Overview
 
 This project focuses on analyzing Brazilian e-commerce data to understand sales performance, customer behavior, product categories, payment methods, and seller performance.
 
 The objective is to transform raw data into meaningful business insights using SQL, Excel, Python, and Power BI.
 
-## 🎯 Project Objectives
+Project Objectives
 
 - Analyze overall e-commerce sales performance.
 - Identify top-performing product categories.
@@ -14,9 +14,9 @@ The objective is to transform raw data into meaningful business insights using S
 - Analyze payment methods and order distribution.
 - Evaluate seller performance.
 - Understand customer review patterns.
-- Build an interactive Power BI dashboard.
-
-## 🛠️ Tools & Technologies
+- Build an interactive Power BI dashboard
+-
+Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -26,7 +26,7 @@ The objective is to transform raw data into meaningful business insights using S
 | Power BI | Interactive dashboard and visualization |
 | VS Code | Project development |
 
-## 📊 Project Workflow
+Project Workflow
 
 1. Data Collection and Understanding
 2. Data Cleaning and Preparation
@@ -37,7 +37,7 @@ The objective is to transform raw data into meaningful business insights using S
 7. Python Exploratory Data Analysis
 8. Power BI Dashboard Development
 
-## 📈 Power BI Dashboard
+Power BI Dashboard
 
 The interactive dashboard includes:
 
@@ -52,7 +52,7 @@ The interactive dashboard includes:
 - Customer Review Score Distribution
 - Top 10 Sellers by Revenue
 
-## 💡 Key Business Analysis Areas
+Key Business Analysis Areas
 
 - Monthly sales performance
 - Best-performing product categories
@@ -61,7 +61,7 @@ The interactive dashboard includes:
 - Customer satisfaction through review scores
 - Seller revenue performance
 
-## 📁 Project Structure
+Project Structure
 
 ```text
 Ecommerce-sales-Customer_analysis/
@@ -80,14 +80,17 @@ Ecommerce-sales-Customer_analysis/
 └── README.md
 ```
 
-## 🚀 Project Outcome
+ Project Outcome
 
 Developed an end-to-end e-commerce analytics project by combining SQL, Excel, Python, and Power BI to analyze business performance and present insights through interactive visualizations.
 
 ---
+## 📊 Dashboard Preview
 
-**Project Type:** Data Analytics Portfolio Project
+![Olist Dashboard](screenshots/Dashboard.png)
 
-**Domain:** E-Commerce
+Project Type: Data Analytics Portfolio Project
 
-**Author:** Kartik Gangadhari
+Domain: E-Commerce
+
+Author: Kartik Gangadhari
