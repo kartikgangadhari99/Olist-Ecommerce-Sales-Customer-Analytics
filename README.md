@@ -16,3 +16,15 @@ Project Work
 - KPI calculations
 - Interactive Power BI dashboard
 - Dashboard visualization and insights
+
+ 📊 Dashboard Previews
+
+1. Power BI Dashboard
+
+![Power BI Dashboard](screenshot/Dashboard.png)
+
+2. Excel Dashboard
+
+![Excel Dashboard](screenshot/Excel_Dashboard.png)
+
+[📥 Download Excel Dashboard](excel/Olist_Excel_Dashboard.xlsx)
